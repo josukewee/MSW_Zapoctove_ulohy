@@ -68,5 +68,4 @@ plt.title('Execution Time vs. Matrix Size')
 plt.legend()
 plt.grid(True)
 
-# Display the plot
 plt.show()
